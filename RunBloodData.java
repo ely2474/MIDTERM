@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class RunBloodData{
 public static void main(String[] args){
 Scanner scn = new Scanner(System.in);
@@ -73,9 +72,10 @@ else{
 System.out.println("You entered wrong input!");
 }
 
-}
-
 
 }
+
+}
+
 
 }
